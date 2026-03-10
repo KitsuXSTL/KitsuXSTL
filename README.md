@@ -1,85 +1,80 @@
+<h1 align="left">Hi 👋, I'm Sebastian Torres (KitsuX 🦊)</h1>
+<h3 align="left">Software Engineering Student | Full Stack Developer</h3>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
-  </ul>
-</div>
+## 🦊 About Me
 
+I am a **Software Engineering student** passionate about **programming and cybersecurity**.  
+Currently, I am focused on becoming a **Full Stack Developer**, building modern web applications while expanding my knowledge in **software development and cybersecurity**.
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+I enjoy learning through **self-study, hands-on projects, and continuous experimentation**, which helps me strengthen my technical abilities and problem-solving skills.
 
+As a self-taught learner, I have developed valuable skills in **problem solving, project organization, and strategic thinking**, allowing me to effectively tackle real-world challenges.
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
+---
 
+## 🚀 Tech Stack
 
-<!--Intro start-->
+### 🖥️ Programming Languages
+- Python 🐍
+- Java ☕
+- JavaScript 🌐
+- C# ⚙️
 
-### I'm a Software Engineer from Vietnam
-### Details about me
-- I’m Khai. I’m a web, mobile and blockchain developer living in Da Nang, Vietnam. I am a fan of technology, programming, and writing. I’m also interested in sports and photography.
-- 😊 Pronouns: **he/him**
-- 🌟 About me: <https://about.me/dinhkhai0201>
-- 🎨 Portfolio: <https://standardresume.co/r/dinhkhai0201>
-- 💻 Actively contributing to Open Source GitHub repositories and also focusing on my professional projects
-- 📧 You can reach out to me by searching "dinhkhai0201" on [@Google](https://github.com/google.com)
+### ⚙️ Frameworks & Technologies
+- React ⚛️
+- Node.js 🟢
 
-<!--Intro end-->
+### 🛠️ Tools & Environment
+- Git & GitHub
+- Bash / Linux Terminal
 
+---
 
+## 📚 Currently Learning
 
-<!--- stats & Trophy (start) -->
+- Full Stack Development (React + Node.js)
+- Backend architecture and APIs
+- Secure software development
+- Web application security
+
+---
+
+## 🚀 Featured Interests
+
+- Software Development
+- Web Application Development
+- Cybersecurity Fundamentals
+- Secure Coding Practices
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
-</td>
+<img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight"/>
+</p>
 
-<td width="50%" align="center">
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight"/>
+</p>
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight"/>
+</p>
 
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
+---
 
+## 🤝 Connect With Me
 
-</p>        
-<!--- stats (end) -->
+- GitHub: https://github.com/TUUSUARIO
+- LinkedIn: (tu linkedin)
+- Email: (tu correo)
 
+---
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+⭐ Always learning, always building.
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
