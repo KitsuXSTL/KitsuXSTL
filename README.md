@@ -26,19 +26,16 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+### I'm a Software Engineer from Vietnam
+### Details about me
+- I’m Khai. I’m a web, mobile and blockchain developer living in Da Nang, Vietnam. I am a fan of technology, programming, and writing. I’m also interested in sports and photography.
+- 😊 Pronouns: **he/him**
+- 🌟 About me: <https://about.me/dinhkhai0201>
+- 🎨 Portfolio: <https://standardresume.co/r/dinhkhai0201>
+- 💻 Actively contributing to Open Source GitHub repositories and also focusing on my professional projects
+- 📧 You can reach out to me by searching "dinhkhai0201" on [@Google](https://github.com/google.com)
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
 <!--Intro end-->
 
 
