@@ -15,34 +15,32 @@ I enjoy learning through **self-study, hands-on projects, and continuous experim
 ## ⚙️ Tech Stack
 
 ### 🖥️ Programming Languages
-
 <p>
-<img src="https://skillicons.dev/icons?i=python" height="40"/>
-<img src="https://skillicons.dev/icons?i=java" height="40"/>
-<img src="https://skillicons.dev/icons?i=javascript" height="40"/>
-<img src="https://skillicons.dev/icons?i=cs" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java" height="40"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cs" height="40"/>
 </p>
 
 ### ⚙️ Technologies
-
 <p>
-<img src="https://skillicons.dev/icons?i=react" height="40"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
 </p>
 
 ### 🗄️ Databases
-
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-<img src="https://skillicons.dev/icons?i=mssql" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mssql" height="40"/>
 </p>
 
 ### 🛠️ Tools
-
 <p>
-<img src="https://skillicons.dev/icons?i=bash" height="40"/>
-<img src="https://skillicons.dev/icons?i=git" height="40"/>
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bash" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </p>
 
 ---
@@ -59,15 +57,13 @@ I enjoy learning through **self-study, hands-on projects, and continuous experim
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight"/>
 </p>
-
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight"/>
 </p>
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -75,10 +71,7 @@ I enjoy learning through **self-study, hands-on projects, and continuous experim
 ## 🤝 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/sebastian-torres-agudelo/
-- Email: sebastian1019987@gmail.com
-
----
-
+- Email: [sebastian1019987@gmail.com](mailto:sebastian1019987@gmail.com)
 
 
 
