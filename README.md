@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Sebastian Torres (KitsuX 🦊)</h1>
+ <h1 align="left">Hi 👋, I'm Sebastian Torres (KitsuX 🦊)</h1>
 <h3 align="left">Software Engineering Student | Full Stack Developer</h3>
 
 ---
@@ -57,10 +57,7 @@ I enjoy learning through **self-study, hands-on projects, and continuous experim
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KitsuXSTL&show_icons=true&theme=tokyonight"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KitsuXSTL&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KitsuXSTL&show_icons=true&theme=tokyonight&count_private=true"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitsuXSTL&layout=compact&theme=tokyonight"/>
