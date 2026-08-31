@@ -57,13 +57,13 @@ I enjoy learning through **self-study, hands-on projects, and continuous experim
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KitsuXSTL&theme=tokyonight" alt="GitHub Profile Details" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KitsuXSTL&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KitsuXSTL&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
